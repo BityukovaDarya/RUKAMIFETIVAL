@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "991361705873",
+    "firebase_url": "https://rukami-8a43d.firebaseio.com",
+    "project_id": "rukami-8a43d",
+    "storage_bucket": "rukami-8a43d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991361705873:android:6cc526a2cf571e2fa41c30",
+        "android_client_info": {
+          "package_name": "com.example.superproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991361705873-88ieanjglqclquoi72s0r2o1bajmdo0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.superproject",
+            "certificate_hash": "1833923917c8df2adeec92b4fd6e2cdc8e36fd82"
+          }
+        },
+        {
+          "client_id": "991361705873-4q56vem7998hgtv69osh7ib22am1qls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDoYm-IpFrPPcBCNlLTASOIuNiF6oSQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991361705873-4q56vem7998hgtv69osh7ib22am1qls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

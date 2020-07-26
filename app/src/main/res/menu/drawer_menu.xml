@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/nav_program"
+        android:title="@string/item11" />
+
+    <item
+        android:id="@+id/nav_zone"
+        android:title="@string/item1" />
+
+    <item
+        android:id="@+id/nav_spiker"
+        android:title="@string/item2" />
+    <item
+        android:id="@+id/nav_meiker"
+        android:title="@string/item3" />
+    <item
+        android:id="@+id/nav_org"
+        android:title="@string/item4" />
+    <item
+        android:id="@+id/nav_partner"
+        android:title="@string/item5" />
+    <item
+        android:id="@+id/nav_meropr"
+        android:title="@string/item6" />
+    <item
+        android:id="@+id/nav_kontact"
+        android:title="@string/item10" />
+    <item
+        android:id="@+id/nav_reg"
+        android:title="@string/item8" />
+    <item
+        android:id="@+id/nav_chat"
+        android:title="@string/item9" />
+    </group>
+
+</menu>

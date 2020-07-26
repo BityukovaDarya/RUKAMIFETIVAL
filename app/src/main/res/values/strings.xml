@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SuperProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="item0">О фестивале</string>
+    <string name="item1">Зоны/Площадки</string>
+    <string name="item2">Спикеры</string>
+    <string name="item3">Мейкеры</string>
+    <string name="item4">Организаторы</string>
+    <string name="item5">Партнеры</string>
+    <string name="item6">Мероприятия</string>
+    <string name="item7">Задать вопросы</string>
+    <string name="item8">Регистрация</string>
+    <string name="item9">Чат для общения</string>
+    <string name="item10">Контакты</string>
+    <string name="item11">Программа</string>
+
+</resources>

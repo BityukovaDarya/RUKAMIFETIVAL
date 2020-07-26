@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorPrimary"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:targetApi="kitkat">
+
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="?android:attr/selectableItemBackground"></solid>
+
+            <stroke android:color="@color/colorPrimary" android:width="2dp"></stroke>
+            <corners android:radius="70dp"></corners>
+        </shape>
+    </item>
+
+</ripple>
